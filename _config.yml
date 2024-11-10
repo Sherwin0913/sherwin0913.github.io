@@ -12,7 +12,7 @@ title                    : "Xuewen Xiang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xuewen Xiang"
 description              : &description "Student"
-url                      : https://Sherwin-Hsiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xuewenxiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sherwin-Hsiang/xuewenxiang.github.io"
 
