@@ -22,13 +22,13 @@ repository               : "Sherwin-Hsiang/xuewenxiang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xuewen Xiang"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "The best time to plant a tree was ten years ago; the next best time is now."
-  location         : "China Sichuan"
-  employer         : "Southeast University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "xuewenxiang2003@163.com" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
