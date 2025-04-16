@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xuewen Xiang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 I am currently studying at the School of Mathematics at Southeast University, majoring in **Systems Science**. I completed my undergraduate studies at the School of Mathematics at Southwest Jiaotong University, where I majored in **Data Science and Big Data Technology**.
 
-🔍 My research interests include **intelligent control** and **intelligent decision-making**. I am passionate about applying advanced mathematical and computational methods to create systems that can make autonomous, optimized decisions.
+🔍 My research interests include **multi-agent reinforcement learning**, **intelligent decision-making**, and **optimal control**. I am passionate about leveraging advanced mathematical and computational techniques to develop systems capable of autonomous and optimized decision-making.
 
 🌐 Feel free to explore my repositories and projects. Let's connect and discuss ideas in data science, machine learning, and intelligent systems!
 
