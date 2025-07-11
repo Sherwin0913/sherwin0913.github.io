@@ -11,9 +11,9 @@ redirect_from:
 
 🎓 I am currently studying at the School of Mathematics at Southeast University, majoring in **Systems Science**. I completed my undergraduate studies at the School of Mathematics at Southwest Jiaotong University, where I majored in **Data Science and Big Data Technology**.
 
-🔍 My research interests include **multi-agent reinforcement learning**, **intelligent decision-making**, and **optimal control**. I am passionate about leveraging advanced mathematical and computational techniques to develop systems capable of autonomous and optimized decision-making.
+🔍 My research interests include **​multi-agent reinforcement learning​** and **​neural network-based state estimation**. I am particularly enthusiastic about ​applying methodologies from statistics, machine learning, neural networks & deep learning, and reinforcement learning to control theory.
 
-🌐 Feel free to explore my repositories and projects. Let's connect and discuss ideas in data science, machine learning, and intelligent systems!
+🌐 Feel free to explore my repositories and projects. Let's connect and discuss ideas in data science and intelligent systems!
 
 🏆 During my undergraduate studies, I received two **National Scholarships** (2022-2023 and 2023-2024 academic years), earned the honor of **Excellent Student** three times, and was recognized as an **Outstanding Graduate of Sichuan Province**.
 
